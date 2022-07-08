@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-![Image baby-ransomware gui](/assets/images/gui.png "Decode")
+![Image baby-ransomware gui](/assets/images/gui.png "GUI")
 
 ## License
 
